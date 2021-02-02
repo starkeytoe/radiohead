@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="table one" max_length="40" name="x_snc_radiohead_table_one" type="collection">
+        <element label="style" max_length="40" name="style" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="Color" max_length="40" name="color" type="string"/>
+        <element label="size" max_length="40" name="size" type="string"/>
+    </element>
+</database>
