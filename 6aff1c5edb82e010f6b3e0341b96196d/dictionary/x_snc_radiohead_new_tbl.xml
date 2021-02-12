@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="new tbl" max_length="40" name="x_snc_radiohead_new_tbl" type="collection">
+        <element label="blah" max_length="40" name="blah" type="string"/>
+    </element>
+</database>
