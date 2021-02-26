@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element attributes="update_synch=true" extends="sys_metadata" label="extends app" max_length="40" name="x_snc_radiohead_extends_app" type="collection">
+    <element attributes="update_synch=true" extends="sys_metadata" label="extends app" max_length="40" name="x_snc_radiohead_extends_app" sizeclass="1" type="collection">
         <element label="bleh" max_length="40" name="bleh" type="string"/>
     </element>
 </database>
